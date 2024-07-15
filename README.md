@@ -1,9 +1,7 @@
 ## Demo
 
-<video width="100%" height="auto" autoplay loop muted>
-  <source src="https://github.com/JunHaoyell/document-scanner/blob/main/document-scanner-record.mov" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Demo GIF](https://github.com/JunHaoyell/document-scanner/blob/main/document-scanner-record.gif)
+
 
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
